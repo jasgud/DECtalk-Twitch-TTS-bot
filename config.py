@@ -3,8 +3,8 @@ import os
 settings = dict(
     server = 'irc.chat.twitch.tv',
     port = 6667,
-    nickname = '', #The bots nickname
-    token = 'oauth:', #Get it from https://twitchapps.com/tmi/
+    nickname = 'Stephen Hawking', #The bots nickname
+    token = '$env:TWITCHCHATOAUTH', #Get it from https://twitchapps.com/tmi/
     channel = '#', #Channel username like '#moistcr1tikal'
 
     # 'keepup'  Keeping up with recent messages, some messages might be skipped.
