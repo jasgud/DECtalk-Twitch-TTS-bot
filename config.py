@@ -5,7 +5,7 @@ settings = dict(
     port = 6667,
     nickname = 'Stephen Hawking', #The bots nickname
     token = '$env:TWITCHCHATOAUTH', #Get it from https://twitchapps.com/tmi/
-    channel = '#', #Channel username like '#moistcr1tikal'
+    channel = '#jasgud', #Channel username like '#moistcr1tikal'
 
     # 'keepup'  Keeping up with recent messages, some messages might be skipped.
     # 'queue'   Queuing up messages and says every message.
